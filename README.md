@@ -1,2 +1,4 @@
-# Design Patterns from GOF (ref: https://refactoring.guru/design-patterns/java)
-Design patterns using GOF patterns and something new from dev communities
+# GOF - Design Patterns
+<b> (ref: https://refactoring.guru/design-patterns/java) </b>
+
+Learn something new from the dev community and capture it over here.
